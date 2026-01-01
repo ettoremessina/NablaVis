@@ -74,4 +74,4 @@ This project was written using **Gemini3** using **Antigravity**.
 ---
 
 ## License
-MIT
+[MIT](LICENSE)
