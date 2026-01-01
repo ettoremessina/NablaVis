@@ -1,6 +1,6 @@
 # NablaVis
 
-**NablaVis** is an interactive educational tool designed to visualize and verify fundamental theorems of vector calculus: the Gradient Theorem, Stokes' Theorem (Curl), and the Divergence Theorem.
+**NablaVis** is an interactive educational tool designed to visualize and verify fundamental theorems of vector calculus: the Gradient Theorem, Curl Theorem, and the Divergence Theorem.
 
 This application provides 3D interactive scenes where users can explore different scalar and vector fields, manipulate paths and surfaces, and see real-time numerical verification of the integrals.
 
@@ -21,7 +21,7 @@ This project was written using **Gemini3** using **Antigravity**.
 *   **Verification**: Displays $f(Q) - f(P)$ and verifies it equals the line integral $\int \nabla f \cdot d\mathbf{r}$.
 *   **Presets**: Paraboloid, Saddle Surface, Gaussian Peak, Hill & Valley.
 
-### 2. Stokes' Theorem (Curl)
+### 2. Curl Theorem
 *   **Visual**: A 2D vector field on the $xy$-plane with a circular path and surface.
 *   **Verification**: Compares the circulation $\oint \mathbf{F} \cdot d\mathbf{r}$ (LHS) with the flux of the curl $\iint (\nabla \times \mathbf{F}) \cdot d\mathbf{S}$ (RHS).
 *   **Presets**: Simple Rotation, Shear Flow, Expanding Spiral, Saddle Field.
