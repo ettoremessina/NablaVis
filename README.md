@@ -11,7 +11,7 @@ This application provides 3D interactive scenes where users can explore differen
 ---
 
 ## 🤖 AI Attribution
-This project was written using **Gemini3** using **Antigravity**.
+This project was written with **Gemini 3** inside the **Antigravity** IDE.
 
 ---
 
@@ -30,7 +30,7 @@ This project was written using **Gemini3** using **Antigravity**.
 
 ### 3. Divergence Theorem
 *   **Visual**: A 3D vector field passing through a spherical surface.
-*   **Verification**: Compares the total flux $\oiint \mathbf{F} \cdot d\mathbf{S}$ (LHS) with the volume integral of divergence $\iiint (\nabla \cdot \mathbf{F}) dV$ (RHS).
+*   **Verification**: Compares the total flux $\iint_{\partial V} \mathbf{F} \cdot d\mathbf{S}$ (LHS) with the volume integral of divergence $\iiint (\nabla \cdot \mathbf{F}) dV$ (RHS).
 *   **Presets**: Source (Point Charge), Sink, Uniform Field, Vertical Expansion.
 
 ### 4. General Features
