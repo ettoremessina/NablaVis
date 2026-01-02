@@ -4,7 +4,7 @@
 
 This application provides 3D interactive scenes where users can explore different scalar and vector fields, manipulate paths and surfaces, and see real-time numerical verification of the integrals.
 
-🌐 **Deployed App**: [https://computationalmindset.com/apps/NablaVis](https://computationalmindset.com/apps/NablaVis)
+🌐 **Deployed WebApp**: [https://computationalmindset.com/apps/NablaVis](https://computationalmindset.com/apps/NablaVis)
 
 📘 **Additional Information**: [https://computationalmindset.com/en/mathematics/nablavis-stokes-theorem.html](https://computationalmindset.com/en/mathematics/nablavis-stokes-theorem.html)
 
