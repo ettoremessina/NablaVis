@@ -6,6 +6,8 @@ This application provides 3D interactive scenes where users can explore differen
 
 🌐 **Deployed App**: [https://computationalmindset.com/apps/NablaVis](https://computationalmindset.com/apps/NablaVis)
 
+📘 **Additional Information**: [https://computationalmindset.com/en/mathematics/nablavis-stokes-theorem.html](https://computationalmindset.com/en/mathematics/nablavis-stokes-theorem.html)
+
 ---
 
 ## 🤖 AI Attribution
